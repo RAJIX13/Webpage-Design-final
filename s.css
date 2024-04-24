@@ -1,0 +1,31 @@
+.row{
+  display: flex;
+}
+.col{
+  flex:1;
+}
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+
+.row1{
+  display: flex;
+}
+.col1{
+  flex: 1;
+}
+
+.row2{
+  display: flex;
+}
+.col2{
+  flex: 1;
+}
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
